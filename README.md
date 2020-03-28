@@ -4,7 +4,7 @@
 
 #### <p align="center">Github.com/ankit0183 | Instagram.com/ankit_kanojiya57 | </p>
 
-### What is FuckDroid ?
+### What is FuckAndroid ?
 
 FuckAnroid is a collection of 250+ Penetration Testing and Ethical Hacking Apps for Android... in this, The Applications is divided into different categories so You can Download any App from any Category and Use it.. 
 
@@ -47,7 +47,7 @@ Open This Link [Pentesting Apps for Android](https://mega.nz/#F!jddEnKgY!ELvIqtW
 
 ### License :
 
-[MIT Licence](https://github.com/thehackingsage/hackdroid/blob/master/LICENSE)
+[MIT Licence](https://github.com/ankit0183/Fuck-Android/blob/master/LICENSE)
 
 Thats It... If You Like This Repo. Please Share This With Your Friends..
 
